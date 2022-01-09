@@ -495,7 +495,7 @@ h6 {
 }
 
 a {
-  color: var(--custom-link-text-color, #2e7eb3);
+  color: var(--custom-link-text-color, #1452F0);
   text-decoration: none;
 }
 a:focus, a:active, a:hover {
